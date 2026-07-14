@@ -9,10 +9,10 @@
 
 I build production systems end to end — from **.NET** backends and **Angular** frontends to **event-driven, serverless architectures on AWS**. I grew from trainee to **Semi-Senior Developer** at Baufest across multiple client projects, owning production deployments and system integrations.
 
-I'm now focused on **AI-oriented development** — agent orchestration and spec-driven workflows with tools like **Claude Code**.
+I'm now focused on **AI-oriented development** — agent orchestration and spec-driven workflows with the agentic dev tools I use daily.
 
 ### 🔭 What I'm working on
-- 🤖 AI-assisted developer workflows: agent orchestration & spec-driven development
+- 🤖 AI-assisted & agentic development with **Claude Code**, **Kiro** (spec-driven), and **GitHub Copilot** (task-based & multi-agent)
 - ☁️ Deepening **AWS Serverless** & Event-Driven architecture (Lambda, API Gateway, SQS, S3, DynamoDB)
 - 🎓 Studying **Systems Analysis** at Universidad de la Empresa (UDE)
 
