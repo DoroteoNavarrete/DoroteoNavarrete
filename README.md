@@ -38,10 +38,3 @@ I'm now focused on **AI-oriented development** — agent orchestration and spec-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/doroteo-navarrete)
 [![Portfolio](https://img.shields.io/badge/Portfolio-14A800?style=flat&logo=netlify&logoColor=white)](https://doroportfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:navarretedoro@gmail.com)
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoroteoNavarrete&show_icons=true&theme=tokyonight&hide_border=true" alt="Doroteo's GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoroteoNavarrete&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160">
-</p>
